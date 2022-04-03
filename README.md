@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmadsubktageen
 - 👀 I’m interested in website development and designing
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Back-end Development
+- 💞️ I’m looking to collaborate on Back-End Development
 - 📫 How to reach me ...
 
 <!---
