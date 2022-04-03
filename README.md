@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmadsubktageen
+- 👋 Hi, I’m @AhmadJanjua
 - 👀 I’m interested in website development and designing
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Back-End Development
